@@ -177,3 +177,17 @@ class Animal {
 
 console.log(Animal.generateName()); // returns a name
 ```
+
+### set
+
+```
+class emptyClass {
+  constructor(keyOne) {
+    ...
+  }
+ 
+  set keyTwo(newKeyTwo) {
+    this._keyTwo = newKeyTwo;
+  }
+} 
+```
