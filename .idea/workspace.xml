@@ -11,7 +11,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f803050b-07c4-49d6-ac77-d971d2eaba8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH1/01_02/end/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH1/01_02/end/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH1/01_03/end/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH1/01_03/end/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH1/01_03/start/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH1/01_03/start/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH1/01_04/end/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH1/01_04/end/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH1/01_04/start/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH1/01_04/start/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH1/01_05/end/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH1/01_05/end/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH1/01_05/start/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH1/01_05/start/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH1/01_06/end/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH1/01_06/end/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH1/01_06/start/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH1/01_06/start/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH2/02_01/end/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH2/02_01/end/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH2/02_01/start/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH2/02_01/start/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH2/02_02/end/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH2/02_02/end/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH2/02_02/start/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH2/02_02/start/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH3/03_01/end/React.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH3/03_01/end/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH3/03_01/end/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH3/03_01/start/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH3/03_01/start/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH3/03_02/end/React.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH3/03_02/end/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH3/03_02/end/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH3/03_02/start/React.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH3/03_02/start/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_JavaScript_Classes/Exercise Files/CH3/03_02/start/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -59,6 +96,7 @@
       <workItem from="1655395833187" duration="5212000" />
       <workItem from="1655406926847" duration="20000" />
       <workItem from="1655433277780" duration="21000" />
+      <workItem from="1656428057879" duration="7139000" />
     </task>
     <servers />
   </component>
