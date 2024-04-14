@@ -20,3 +20,4 @@ class Car {
 
 const civic = new Car(4,'V4','Black');
 console.log(civic.carStats());
+
